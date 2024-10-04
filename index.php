@@ -33,5 +33,5 @@
 //     echo"o valor total ficou em: ".$valorfinal."\n";
 // } else if($valorCompra< 200){
 //     echo"Sem descontos: ".$valorCompra."\n";
-// };
+// };sd
 ?> 
